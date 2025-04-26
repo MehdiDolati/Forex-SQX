@@ -1,0 +1,1518 @@
+Wed 07/24/2024 17:02:22.37 Counter: 1  
+Wed 07/24/2024 17:02:22.37 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:22.37 Month: January  
+Wed 07/24/2024 17:02:22.37 Day: Monday  
+Wed 07/24/2024 17:02:22.37 Direction: Long  
+Wed 07/24/2024 17:02:22.37 File copied from Templates\Long\January\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:22.37 File copied from Templates\Long\January\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:22.37 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:37.16 Counter: 2  
+Wed 07/24/2024 17:02:37.16 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:37.16 Month: January  
+Wed 07/24/2024 17:02:37.16 Day: Monday  
+Wed 07/24/2024 17:02:37.16 Direction: Short  
+Wed 07/24/2024 17:02:37.16 File copied from Templates\Short\January\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:37.16 File copied from Templates\Short\January\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:37.16 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:40.87 Counter: 3  
+Wed 07/24/2024 17:02:40.87 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:40.87 Month: January  
+Wed 07/24/2024 17:02:40.87 Day: Tuesday  
+Wed 07/24/2024 17:02:40.87 Direction: Long  
+Wed 07/24/2024 17:02:40.87 File copied from Templates\Long\January\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:40.87 File copied from Templates\Long\January\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:40.87 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:42.64 Counter: 4  
+Wed 07/24/2024 17:02:42.64 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:42.64 Month: January  
+Wed 07/24/2024 17:02:42.64 Day: Tuesday  
+Wed 07/24/2024 17:02:42.64 Direction: Short  
+Wed 07/24/2024 17:02:42.64 File copied from Templates\Short\January\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:42.64 File copied from Templates\Short\January\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:42.64 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:45.50 Counter: 5  
+Wed 07/24/2024 17:02:45.50 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:45.50 Month: January  
+Wed 07/24/2024 17:02:45.50 Day: Wednesday  
+Wed 07/24/2024 17:02:45.50 Direction: Long  
+Wed 07/24/2024 17:02:45.50 File copied from Templates\Long\January\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:45.50 File copied from Templates\Long\January\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:45.50 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:49.71 Counter: 6  
+Wed 07/24/2024 17:02:49.71 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:49.71 Month: January  
+Wed 07/24/2024 17:02:49.71 Day: Wednesday  
+Wed 07/24/2024 17:02:49.71 Direction: Short  
+Wed 07/24/2024 17:02:49.71 File copied from Templates\Short\January\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:49.71 File copied from Templates\Short\January\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:49.71 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:51.76 Counter: 7  
+Wed 07/24/2024 17:02:51.76 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:51.76 Month: January  
+Wed 07/24/2024 17:02:51.76 Day: Thursday  
+Wed 07/24/2024 17:02:51.76 Direction: Long  
+Wed 07/24/2024 17:02:51.76 File copied from Templates\Long\January\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:51.76 File copied from Templates\Long\January\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:51.76 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:54.18 Counter: 8  
+Wed 07/24/2024 17:02:54.18 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:54.18 Month: January  
+Wed 07/24/2024 17:02:54.18 Day: Thursday  
+Wed 07/24/2024 17:02:54.18 Direction: Short  
+Wed 07/24/2024 17:02:54.18 File copied from Templates\Short\January\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:54.18 File copied from Templates\Short\January\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:54.18 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:56.47 Counter: 9  
+Wed 07/24/2024 17:02:56.47 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:56.47 Month: January  
+Wed 07/24/2024 17:02:56.47 Day: Friday  
+Wed 07/24/2024 17:02:56.47 Direction: Long  
+Wed 07/24/2024 17:02:56.47 File copied from Templates\Long\January\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:56.47 File copied from Templates\Long\January\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:56.47 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:02:58.06 Counter: 10  
+Wed 07/24/2024 17:02:58.06 Ticker: AUDCAD  
+Wed 07/24/2024 17:02:58.06 Month: January  
+Wed 07/24/2024 17:02:58.06 Day: Friday  
+Wed 07/24/2024 17:02:58.06 Direction: Short  
+Wed 07/24/2024 17:02:58.06 File copied from Templates\Short\January\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:02:58.06 File copied from Templates\Short\January\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:02:58.06 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:01.97 Counter: 11  
+Wed 07/24/2024 17:03:01.97 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:01.97 Month: February  
+Wed 07/24/2024 17:03:01.97 Day: Monday  
+Wed 07/24/2024 17:03:01.97 Direction: Long  
+Wed 07/24/2024 17:03:01.97 File copied from Templates\Long\February\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:01.97 File copied from Templates\Long\February\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:01.97 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:03.74 Counter: 12  
+Wed 07/24/2024 17:03:03.74 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:03.74 Month: February  
+Wed 07/24/2024 17:03:03.74 Day: Monday  
+Wed 07/24/2024 17:03:03.74 Direction: Short  
+Wed 07/24/2024 17:03:03.74 File copied from Templates\Short\February\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:03.74 File copied from Templates\Short\February\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:03.74 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:05.02 Counter: 13  
+Wed 07/24/2024 17:03:05.02 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:05.02 Month: February  
+Wed 07/24/2024 17:03:05.02 Day: Tuesday  
+Wed 07/24/2024 17:03:05.02 Direction: Long  
+Wed 07/24/2024 17:03:05.02 File copied from Templates\Long\February\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:05.02 File copied from Templates\Long\February\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:05.02 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:08.58 Counter: 14  
+Wed 07/24/2024 17:03:08.58 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:08.58 Month: February  
+Wed 07/24/2024 17:03:08.58 Day: Tuesday  
+Wed 07/24/2024 17:03:08.58 Direction: Short  
+Wed 07/24/2024 17:03:08.58 File copied from Templates\Short\February\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:08.58 File copied from Templates\Short\February\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:08.58 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:10.14 Counter: 15  
+Wed 07/24/2024 17:03:10.14 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:10.14 Month: February  
+Wed 07/24/2024 17:03:10.14 Day: Wednesday  
+Wed 07/24/2024 17:03:10.14 Direction: Long  
+Wed 07/24/2024 17:03:10.14 File copied from Templates\Long\February\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:10.14 File copied from Templates\Long\February\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:10.14 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:12.77 Counter: 16  
+Wed 07/24/2024 17:03:12.77 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:12.77 Month: February  
+Wed 07/24/2024 17:03:12.77 Day: Wednesday  
+Wed 07/24/2024 17:03:12.77 Direction: Short  
+Wed 07/24/2024 17:03:12.77 File copied from Templates\Short\February\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:12.77 File copied from Templates\Short\February\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:12.77 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:14.03 Counter: 17  
+Wed 07/24/2024 17:03:14.03 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:14.03 Month: February  
+Wed 07/24/2024 17:03:14.03 Day: Thursday  
+Wed 07/24/2024 17:03:14.03 Direction: Long  
+Wed 07/24/2024 17:03:14.03 File copied from Templates\Long\February\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:14.03 File copied from Templates\Long\February\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:14.03 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:15.69 Counter: 18  
+Wed 07/24/2024 17:03:15.69 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:15.69 Month: February  
+Wed 07/24/2024 17:03:15.69 Day: Thursday  
+Wed 07/24/2024 17:03:15.69 Direction: Short  
+Wed 07/24/2024 17:03:15.69 File copied from Templates\Short\February\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:15.69 File copied from Templates\Short\February\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:15.69 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:16.99 Counter: 19  
+Wed 07/24/2024 17:03:16.99 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:16.99 Month: February  
+Wed 07/24/2024 17:03:16.99 Day: Friday  
+Wed 07/24/2024 17:03:16.99 Direction: Long  
+Wed 07/24/2024 17:03:16.99 File copied from Templates\Long\February\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:16.99 File copied from Templates\Long\February\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:16.99 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:20.73 Counter: 20  
+Wed 07/24/2024 17:03:20.73 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:20.73 Month: February  
+Wed 07/24/2024 17:03:20.73 Day: Friday  
+Wed 07/24/2024 17:03:20.73 Direction: Short  
+Wed 07/24/2024 17:03:20.73 File copied from Templates\Short\February\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:20.73 File copied from Templates\Short\February\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:20.73 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:21.75 Counter: 21  
+Wed 07/24/2024 17:03:21.75 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:21.75 Month: March  
+Wed 07/24/2024 17:03:21.75 Day: Monday  
+Wed 07/24/2024 17:03:21.75 Direction: Long  
+Wed 07/24/2024 17:03:21.75 File copied from Templates\Long\March\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:21.75 File copied from Templates\Long\March\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:21.75 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:23.29 Counter: 22  
+Wed 07/24/2024 17:03:23.29 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:23.29 Month: March  
+Wed 07/24/2024 17:03:23.29 Day: Monday  
+Wed 07/24/2024 17:03:23.29 Direction: Short  
+Wed 07/24/2024 17:03:23.29 File copied from Templates\Short\March\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:23.29 File copied from Templates\Short\March\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:23.29 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:24.17 Counter: 23  
+Wed 07/24/2024 17:03:24.17 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:24.17 Month: March  
+Wed 07/24/2024 17:03:24.17 Day: Tuesday  
+Wed 07/24/2024 17:03:24.17 Direction: Long  
+Wed 07/24/2024 17:03:24.17 File copied from Templates\Long\March\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:24.17 File copied from Templates\Long\March\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:24.17 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:24.84 Counter: 24  
+Wed 07/24/2024 17:03:24.84 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:24.84 Month: March  
+Wed 07/24/2024 17:03:24.84 Day: Tuesday  
+Wed 07/24/2024 17:03:24.84 Direction: Short  
+Wed 07/24/2024 17:03:24.84 File copied from Templates\Short\March\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:24.84 File copied from Templates\Short\March\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:24.84 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:25.55 Counter: 25  
+Wed 07/24/2024 17:03:25.55 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:25.55 Month: March  
+Wed 07/24/2024 17:03:25.55 Day: Wednesday  
+Wed 07/24/2024 17:03:25.55 Direction: Long  
+Wed 07/24/2024 17:03:25.55 File copied from Templates\Long\March\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:25.55 File copied from Templates\Long\March\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:25.55 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:26.31 Counter: 26  
+Wed 07/24/2024 17:03:26.31 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:26.31 Month: March  
+Wed 07/24/2024 17:03:26.31 Day: Wednesday  
+Wed 07/24/2024 17:03:26.31 Direction: Short  
+Wed 07/24/2024 17:03:26.31 File copied from Templates\Short\March\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:26.31 File copied from Templates\Short\March\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:26.31 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+Wed 07/24/2024 17:03:27.13 Counter: 27  
+Wed 07/24/2024 17:03:27.13 Ticker: AUDCAD  
+Wed 07/24/2024 17:03:27.13 Month: March  
+Wed 07/24/2024 17:03:27.13 Day: Thursday  
+Wed 07/24/2024 17:03:27.13 Direction: Long  
+Wed 07/24/2024 17:03:27.13 File copied from Templates\Long\March\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:03:27.13 File copied from Templates\Long\March\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:03:27.13 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:28.52 Counter: 28  
+Wed 07/24/2024 17:05:28.52 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:28.52 Month: March  
+Wed 07/24/2024 17:05:28.52 Day: Thursday  
+Wed 07/24/2024 17:05:28.52 Direction: Short  
+Wed 07/24/2024 17:05:28.52 File copied from Templates\Short\March\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:28.52 File copied from Templates\Short\March\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:28.52 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:31.00 Counter: 29  
+Wed 07/24/2024 17:05:31.00 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:31.00 Month: March  
+Wed 07/24/2024 17:05:31.00 Day: Friday  
+Wed 07/24/2024 17:05:31.00 Direction: Long  
+Wed 07/24/2024 17:05:31.00 File copied from Templates\Long\March\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:31.00 File copied from Templates\Long\March\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:31.00 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:32.67 Counter: 30  
+Wed 07/24/2024 17:05:32.67 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:32.67 Month: March  
+Wed 07/24/2024 17:05:32.67 Day: Friday  
+Wed 07/24/2024 17:05:32.67 Direction: Short  
+Wed 07/24/2024 17:05:32.67 File copied from Templates\Short\March\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:32.67 File copied from Templates\Short\March\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:32.67 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:34.43 Counter: 31  
+Wed 07/24/2024 17:05:34.43 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:34.43 Month: April  
+Wed 07/24/2024 17:05:34.43 Day: Monday  
+Wed 07/24/2024 17:05:34.43 Direction: Long  
+Wed 07/24/2024 17:05:34.43 File copied from Templates\Long\April\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:34.43 File copied from Templates\Long\April\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:34.43 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:38.43 Counter: 32  
+Wed 07/24/2024 17:05:38.43 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:38.43 Month: April  
+Wed 07/24/2024 17:05:38.43 Day: Monday  
+Wed 07/24/2024 17:05:38.43 Direction: Short  
+Wed 07/24/2024 17:05:38.43 File copied from Templates\Short\April\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:38.43 File copied from Templates\Short\April\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:38.43 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:39.60 Counter: 33  
+Wed 07/24/2024 17:05:39.60 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:39.60 Month: April  
+Wed 07/24/2024 17:05:39.60 Day: Tuesday  
+Wed 07/24/2024 17:05:39.60 Direction: Long  
+Wed 07/24/2024 17:05:39.60 File copied from Templates\Long\April\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:39.60 File copied from Templates\Long\April\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:39.60 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:41.64 Counter: 34  
+Wed 07/24/2024 17:05:41.64 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:41.64 Month: April  
+Wed 07/24/2024 17:05:41.64 Day: Tuesday  
+Wed 07/24/2024 17:05:41.64 Direction: Short  
+Wed 07/24/2024 17:05:41.64 File copied from Templates\Short\April\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:41.64 File copied from Templates\Short\April\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:41.64 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:42.54 Counter: 35  
+Wed 07/24/2024 17:05:42.54 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:42.54 Month: April  
+Wed 07/24/2024 17:05:42.54 Day: Wednesday  
+Wed 07/24/2024 17:05:42.54 Direction: Long  
+Wed 07/24/2024 17:05:42.54 File copied from Templates\Long\April\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:42.54 File copied from Templates\Long\April\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:42.54 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:43.72 Counter: 36  
+Wed 07/24/2024 17:05:43.72 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:43.72 Month: April  
+Wed 07/24/2024 17:05:43.72 Day: Wednesday  
+Wed 07/24/2024 17:05:43.72 Direction: Short  
+Wed 07/24/2024 17:05:43.72 File copied from Templates\Short\April\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:43.72 File copied from Templates\Short\April\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:43.72 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:44.34 Counter: 37  
+Wed 07/24/2024 17:05:44.34 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:44.34 Month: April  
+Wed 07/24/2024 17:05:44.34 Day: Thursday  
+Wed 07/24/2024 17:05:44.34 Direction: Long  
+Wed 07/24/2024 17:05:44.34 File copied from Templates\Long\April\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:44.34 File copied from Templates\Long\April\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:44.34 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:47.15 Counter: 38  
+Wed 07/24/2024 17:05:47.15 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:47.15 Month: April  
+Wed 07/24/2024 17:05:47.15 Day: Thursday  
+Wed 07/24/2024 17:05:47.15 Direction: Short  
+Wed 07/24/2024 17:05:47.15 File copied from Templates\Short\April\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:47.15 File copied from Templates\Short\April\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:47.15 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:47.95 Counter: 39  
+Wed 07/24/2024 17:05:47.95 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:47.95 Month: April  
+Wed 07/24/2024 17:05:47.95 Day: Friday  
+Wed 07/24/2024 17:05:47.95 Direction: Long  
+Wed 07/24/2024 17:05:47.95 File copied from Templates\Long\April\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:47.95 File copied from Templates\Long\April\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:47.95 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:49.10 Counter: 40  
+Wed 07/24/2024 17:05:49.10 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:49.10 Month: April  
+Wed 07/24/2024 17:05:49.10 Day: Friday  
+Wed 07/24/2024 17:05:49.10 Direction: Short  
+Wed 07/24/2024 17:05:49.10 File copied from Templates\Short\April\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:49.10 File copied from Templates\Short\April\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:49.10 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:49.78 Counter: 41  
+Wed 07/24/2024 17:05:49.78 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:49.78 Month: May  
+Wed 07/24/2024 17:05:49.78 Day: Monday  
+Wed 07/24/2024 17:05:49.78 Direction: Long  
+Wed 07/24/2024 17:05:49.78 File copied from Templates\Long\May\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:49.78 File copied from Templates\Long\May\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:49.78 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:51.31 Counter: 42  
+Wed 07/24/2024 17:05:51.31 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:51.31 Month: May  
+Wed 07/24/2024 17:05:51.31 Day: Monday  
+Wed 07/24/2024 17:05:51.31 Direction: Short  
+Wed 07/24/2024 17:05:51.31 File copied from Templates\Short\May\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:51.31 File copied from Templates\Short\May\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:51.31 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:52.19 Counter: 43  
+Wed 07/24/2024 17:05:52.19 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:52.19 Month: May  
+Wed 07/24/2024 17:05:52.19 Day: Tuesday  
+Wed 07/24/2024 17:05:52.19 Direction: Long  
+Wed 07/24/2024 17:05:52.19 File copied from Templates\Long\May\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:52.19 File copied from Templates\Long\May\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:52.19 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:53.76 Counter: 44  
+Wed 07/24/2024 17:05:53.76 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:53.76 Month: May  
+Wed 07/24/2024 17:05:53.76 Day: Tuesday  
+Wed 07/24/2024 17:05:53.76 Direction: Short  
+Wed 07/24/2024 17:05:53.76 File copied from Templates\Short\May\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:53.76 File copied from Templates\Short\May\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:53.76 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:54.53 Counter: 45  
+Wed 07/24/2024 17:05:54.53 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:54.53 Month: May  
+Wed 07/24/2024 17:05:54.53 Day: Wednesday  
+Wed 07/24/2024 17:05:54.53 Direction: Long  
+Wed 07/24/2024 17:05:54.53 File copied from Templates\Long\May\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:54.53 File copied from Templates\Long\May\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:54.53 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:55.38 Counter: 46  
+Wed 07/24/2024 17:05:55.38 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:55.38 Month: May  
+Wed 07/24/2024 17:05:55.38 Day: Wednesday  
+Wed 07/24/2024 17:05:55.38 Direction: Short  
+Wed 07/24/2024 17:05:55.38 File copied from Templates\Short\May\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:55.38 File copied from Templates\Short\May\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:55.38 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:56.05 Counter: 47  
+Wed 07/24/2024 17:05:56.05 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:56.05 Month: May  
+Wed 07/24/2024 17:05:56.05 Day: Thursday  
+Wed 07/24/2024 17:05:56.05 Direction: Long  
+Wed 07/24/2024 17:05:56.05 File copied from Templates\Long\May\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:56.05 File copied from Templates\Long\May\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:56.05 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:57.05 Counter: 48  
+Wed 07/24/2024 17:05:57.05 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:57.05 Month: May  
+Wed 07/24/2024 17:05:57.05 Day: Thursday  
+Wed 07/24/2024 17:05:57.05 Direction: Short  
+Wed 07/24/2024 17:05:57.05 File copied from Templates\Short\May\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:57.05 File copied from Templates\Short\May\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:57.05 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:57.92 Counter: 49  
+Wed 07/24/2024 17:05:57.92 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:57.92 Month: May  
+Wed 07/24/2024 17:05:57.92 Day: Friday  
+Wed 07/24/2024 17:05:57.92 Direction: Long  
+Wed 07/24/2024 17:05:57.92 File copied from Templates\Long\May\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:57.92 File copied from Templates\Long\May\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:57.92 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:59.22 Counter: 50  
+Wed 07/24/2024 17:05:59.22 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:59.22 Month: May  
+Wed 07/24/2024 17:05:59.22 Day: Friday  
+Wed 07/24/2024 17:05:59.22 Direction: Short  
+Wed 07/24/2024 17:05:59.22 File copied from Templates\Short\May\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:59.22 File copied from Templates\Short\May\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:59.22 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:05:59.99 Counter: 51  
+Wed 07/24/2024 17:05:59.99 Ticker: AUDCAD  
+Wed 07/24/2024 17:05:59.99 Month: June  
+Wed 07/24/2024 17:05:59.99 Day: Monday  
+Wed 07/24/2024 17:05:59.99 Direction: Long  
+Wed 07/24/2024 17:05:59.99 File copied from Templates\Long\June\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:05:59.99 File copied from Templates\Long\June\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:05:59.99 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:01.10 Counter: 52  
+Wed 07/24/2024 17:06:01.10 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:01.10 Month: June  
+Wed 07/24/2024 17:06:01.10 Day: Monday  
+Wed 07/24/2024 17:06:01.10 Direction: Short  
+Wed 07/24/2024 17:06:01.10 File copied from Templates\Short\June\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:01.10 File copied from Templates\Short\June\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:01.10 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:03.76 Counter: 53  
+Wed 07/24/2024 17:06:03.76 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:03.76 Month: June  
+Wed 07/24/2024 17:06:03.76 Day: Tuesday  
+Wed 07/24/2024 17:06:03.76 Direction: Long  
+Wed 07/24/2024 17:06:03.76 File copied from Templates\Long\June\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:03.76 File copied from Templates\Long\June\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:03.76 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:04.60 Counter: 54  
+Wed 07/24/2024 17:06:04.60 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:04.60 Month: June  
+Wed 07/24/2024 17:06:04.60 Day: Tuesday  
+Wed 07/24/2024 17:06:04.60 Direction: Short  
+Wed 07/24/2024 17:06:04.60 File copied from Templates\Short\June\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:04.60 File copied from Templates\Short\June\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:04.60 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:11.09 Counter: 55  
+Wed 07/24/2024 17:06:11.09 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:11.09 Month: June  
+Wed 07/24/2024 17:06:11.09 Day: Wednesday  
+Wed 07/24/2024 17:06:11.09 Direction: Long  
+Wed 07/24/2024 17:06:11.09 File copied from Templates\Long\June\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:11.09 File copied from Templates\Long\June\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:11.09 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:12.22 Counter: 56  
+Wed 07/24/2024 17:06:12.22 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:12.22 Month: June  
+Wed 07/24/2024 17:06:12.22 Day: Wednesday  
+Wed 07/24/2024 17:06:12.22 Direction: Short  
+Wed 07/24/2024 17:06:12.22 File copied from Templates\Short\June\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:12.22 File copied from Templates\Short\June\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:12.22 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:12.93 Counter: 57  
+Wed 07/24/2024 17:06:12.93 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:12.93 Month: June  
+Wed 07/24/2024 17:06:12.93 Day: Thursday  
+Wed 07/24/2024 17:06:12.93 Direction: Long  
+Wed 07/24/2024 17:06:12.93 File copied from Templates\Long\June\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:12.93 File copied from Templates\Long\June\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:12.93 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:13.60 Counter: 58  
+Wed 07/24/2024 17:06:13.60 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:13.60 Month: June  
+Wed 07/24/2024 17:06:13.60 Day: Thursday  
+Wed 07/24/2024 17:06:13.60 Direction: Short  
+Wed 07/24/2024 17:06:13.60 File copied from Templates\Short\June\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:13.60 File copied from Templates\Short\June\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:13.60 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:14.51 Counter: 59  
+Wed 07/24/2024 17:06:14.51 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:14.51 Month: June  
+Wed 07/24/2024 17:06:14.51 Day: Friday  
+Wed 07/24/2024 17:06:14.51 Direction: Long  
+Wed 07/24/2024 17:06:14.51 File copied from Templates\Long\June\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:14.51 File copied from Templates\Long\June\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:14.51 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:15.16 Counter: 60  
+Wed 07/24/2024 17:06:15.16 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:15.16 Month: June  
+Wed 07/24/2024 17:06:15.16 Day: Friday  
+Wed 07/24/2024 17:06:15.16 Direction: Short  
+Wed 07/24/2024 17:06:15.16 File copied from Templates\Short\June\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:15.16 File copied from Templates\Short\June\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:15.16 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:16.06 Counter: 61  
+Wed 07/24/2024 17:06:16.06 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:16.06 Month: July  
+Wed 07/24/2024 17:06:16.06 Day: Monday  
+Wed 07/24/2024 17:06:16.06 Direction: Long  
+Wed 07/24/2024 17:06:16.06 File copied from Templates\Long\July\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:16.06 File copied from Templates\Long\July\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:16.06 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:17.03 Counter: 62  
+Wed 07/24/2024 17:06:17.03 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:17.03 Month: July  
+Wed 07/24/2024 17:06:17.03 Day: Monday  
+Wed 07/24/2024 17:06:17.03 Direction: Short  
+Wed 07/24/2024 17:06:17.03 File copied from Templates\Short\July\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:17.03 File copied from Templates\Short\July\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:17.03 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:17.88 Counter: 63  
+Wed 07/24/2024 17:06:17.88 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:17.88 Month: July  
+Wed 07/24/2024 17:06:17.88 Day: Tuesday  
+Wed 07/24/2024 17:06:17.88 Direction: Long  
+Wed 07/24/2024 17:06:17.88 File copied from Templates\Long\July\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:17.88 File copied from Templates\Long\July\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:17.88 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:29.51 Counter: 64  
+Wed 07/24/2024 17:06:29.51 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:29.51 Month: July  
+Wed 07/24/2024 17:06:29.51 Day: Tuesday  
+Wed 07/24/2024 17:06:29.51 Direction: Short  
+Wed 07/24/2024 17:06:29.51 File copied from Templates\Short\July\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:29.51 File copied from Templates\Short\July\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:29.51 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:30.09 Counter: 65  
+Wed 07/24/2024 17:06:30.09 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:30.09 Month: July  
+Wed 07/24/2024 17:06:30.09 Day: Wednesday  
+Wed 07/24/2024 17:06:30.09 Direction: Long  
+Wed 07/24/2024 17:06:30.09 File copied from Templates\Long\July\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:30.09 File copied from Templates\Long\July\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:30.09 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:30.77 Counter: 66  
+Wed 07/24/2024 17:06:30.77 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:30.77 Month: July  
+Wed 07/24/2024 17:06:30.77 Day: Wednesday  
+Wed 07/24/2024 17:06:30.77 Direction: Short  
+Wed 07/24/2024 17:06:30.77 File copied from Templates\Short\July\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:30.77 File copied from Templates\Short\July\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:30.77 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:31.41 Counter: 67  
+Wed 07/24/2024 17:06:31.41 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:31.41 Month: July  
+Wed 07/24/2024 17:06:31.41 Day: Thursday  
+Wed 07/24/2024 17:06:31.41 Direction: Long  
+Wed 07/24/2024 17:06:31.41 File copied from Templates\Long\July\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:31.41 File copied from Templates\Long\July\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:31.41 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:32.03 Counter: 68  
+Wed 07/24/2024 17:06:32.03 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:32.03 Month: July  
+Wed 07/24/2024 17:06:32.03 Day: Thursday  
+Wed 07/24/2024 17:06:32.03 Direction: Short  
+Wed 07/24/2024 17:06:32.03 File copied from Templates\Short\July\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:32.03 File copied from Templates\Short\July\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:32.03 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:33.00 Counter: 69  
+Wed 07/24/2024 17:06:33.00 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:33.00 Month: July  
+Wed 07/24/2024 17:06:33.00 Day: Friday  
+Wed 07/24/2024 17:06:33.00 Direction: Long  
+Wed 07/24/2024 17:06:33.00 File copied from Templates\Long\July\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:33.00 File copied from Templates\Long\July\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:33.00 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:33.78 Counter: 70  
+Wed 07/24/2024 17:06:33.78 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:33.78 Month: July  
+Wed 07/24/2024 17:06:33.78 Day: Friday  
+Wed 07/24/2024 17:06:33.78 Direction: Short  
+Wed 07/24/2024 17:06:33.78 File copied from Templates\Short\July\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:33.78 File copied from Templates\Short\July\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:33.78 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+The system cannot find the file specified.
+Wed 07/24/2024 17:06:34.74 Counter: 71  
+Wed 07/24/2024 17:06:34.74 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:34.74 Month: August  
+Wed 07/24/2024 17:06:34.74 Day: Monday  
+Wed 07/24/2024 17:06:34.74 Direction: Long  
+Wed 07/24/2024 17:06:34.74 File copied from Templates\Long\August\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:34.74 File copied from Templates\Long\August\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:34.74 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+The system cannot find the file specified.
+Wed 07/24/2024 17:06:35.73 Counter: 72  
+Wed 07/24/2024 17:06:35.73 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:35.73 Month: August  
+Wed 07/24/2024 17:06:35.73 Day: Monday  
+Wed 07/24/2024 17:06:35.73 Direction: Short  
+Wed 07/24/2024 17:06:35.73 File copied from Templates\Short\August\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:35.73 File copied from Templates\Short\August\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:35.73 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:36.55 Counter: 73  
+Wed 07/24/2024 17:06:36.55 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:36.55 Month: August  
+Wed 07/24/2024 17:06:36.55 Day: Tuesday  
+Wed 07/24/2024 17:06:36.55 Direction: Long  
+Wed 07/24/2024 17:06:36.55 File copied from Templates\Long\August\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:36.55 File copied from Templates\Long\August\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:36.55 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:37.31 Counter: 74  
+Wed 07/24/2024 17:06:37.31 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:37.31 Month: August  
+Wed 07/24/2024 17:06:37.31 Day: Tuesday  
+Wed 07/24/2024 17:06:37.31 Direction: Short  
+Wed 07/24/2024 17:06:37.31 File copied from Templates\Short\August\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:37.31 File copied from Templates\Short\August\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:37.31 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:38.16 Counter: 75  
+Wed 07/24/2024 17:06:38.16 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:38.16 Month: August  
+Wed 07/24/2024 17:06:38.16 Day: Wednesday  
+Wed 07/24/2024 17:06:38.16 Direction: Long  
+Wed 07/24/2024 17:06:38.16 File copied from Templates\Long\August\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:38.16 File copied from Templates\Long\August\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:38.16 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:38.97 Counter: 76  
+Wed 07/24/2024 17:06:38.97 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:38.97 Month: August  
+Wed 07/24/2024 17:06:38.97 Day: Wednesday  
+Wed 07/24/2024 17:06:38.97 Direction: Short  
+Wed 07/24/2024 17:06:38.97 File copied from Templates\Short\August\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:38.97 File copied from Templates\Short\August\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:38.97 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:39.76 Counter: 77  
+Wed 07/24/2024 17:06:39.76 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:39.76 Month: August  
+Wed 07/24/2024 17:06:39.76 Day: Thursday  
+Wed 07/24/2024 17:06:39.76 Direction: Long  
+Wed 07/24/2024 17:06:39.76 File copied from Templates\Long\August\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:39.76 File copied from Templates\Long\August\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:39.76 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:40.48 Counter: 78  
+Wed 07/24/2024 17:06:40.48 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:40.48 Month: August  
+Wed 07/24/2024 17:06:40.48 Day: Thursday  
+Wed 07/24/2024 17:06:40.48 Direction: Short  
+Wed 07/24/2024 17:06:40.48 File copied from Templates\Short\August\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:40.48 File copied from Templates\Short\August\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:40.48 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+The system cannot find the file specified.
+Wed 07/24/2024 17:06:41.44 Counter: 79  
+Wed 07/24/2024 17:06:41.44 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:41.44 Month: August  
+Wed 07/24/2024 17:06:41.44 Day: Friday  
+Wed 07/24/2024 17:06:41.44 Direction: Long  
+Wed 07/24/2024 17:06:41.44 File copied from Templates\Long\August\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:41.44 File copied from Templates\Long\August\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:41.44 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+The system cannot find the file specified.
+Wed 07/24/2024 17:06:42.35 Counter: 80  
+Wed 07/24/2024 17:06:42.35 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:42.35 Month: August  
+Wed 07/24/2024 17:06:42.35 Day: Friday  
+Wed 07/24/2024 17:06:42.35 Direction: Short  
+Wed 07/24/2024 17:06:42.35 File copied from Templates\Short\August\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:42.35 File copied from Templates\Short\August\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:42.35 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:48.38 Counter: 81  
+Wed 07/24/2024 17:06:48.38 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:48.38 Month: September  
+Wed 07/24/2024 17:06:48.38 Day: Monday  
+Wed 07/24/2024 17:06:48.38 Direction: Long  
+Wed 07/24/2024 17:06:48.38 File copied from Templates\Long\September\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:48.38 File copied from Templates\Long\September\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:48.38 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:49.44 Counter: 82  
+Wed 07/24/2024 17:06:49.44 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:49.44 Month: September  
+Wed 07/24/2024 17:06:49.44 Day: Monday  
+Wed 07/24/2024 17:06:49.44 Direction: Short  
+Wed 07/24/2024 17:06:49.44 File copied from Templates\Short\September\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:49.44 File copied from Templates\Short\September\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:49.44 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:50.51 Counter: 83  
+Wed 07/24/2024 17:06:50.51 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:50.51 Month: September  
+Wed 07/24/2024 17:06:50.51 Day: Tuesday  
+Wed 07/24/2024 17:06:50.51 Direction: Long  
+Wed 07/24/2024 17:06:50.51 File copied from Templates\Long\September\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:50.51 File copied from Templates\Long\September\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:50.51 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:51.40 Counter: 84  
+Wed 07/24/2024 17:06:51.40 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:51.40 Month: September  
+Wed 07/24/2024 17:06:51.40 Day: Tuesday  
+Wed 07/24/2024 17:06:51.40 Direction: Short  
+Wed 07/24/2024 17:06:51.40 File copied from Templates\Short\September\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:51.40 File copied from Templates\Short\September\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:51.40 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:52.31 Counter: 85  
+Wed 07/24/2024 17:06:52.31 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:52.31 Month: September  
+Wed 07/24/2024 17:06:52.31 Day: Wednesday  
+Wed 07/24/2024 17:06:52.31 Direction: Long  
+Wed 07/24/2024 17:06:52.31 File copied from Templates\Long\September\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:52.31 File copied from Templates\Long\September\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:52.31 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:53.17 Counter: 86  
+Wed 07/24/2024 17:06:53.17 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:53.17 Month: September  
+Wed 07/24/2024 17:06:53.17 Day: Wednesday  
+Wed 07/24/2024 17:06:53.17 Direction: Short  
+Wed 07/24/2024 17:06:53.17 File copied from Templates\Short\September\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:53.17 File copied from Templates\Short\September\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:53.17 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:53.98 Counter: 87  
+Wed 07/24/2024 17:06:53.98 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:53.98 Month: September  
+Wed 07/24/2024 17:06:53.98 Day: Thursday  
+Wed 07/24/2024 17:06:53.98 Direction: Long  
+Wed 07/24/2024 17:06:53.98 File copied from Templates\Long\September\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:53.98 File copied from Templates\Long\September\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:53.98 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:55.00 Counter: 88  
+Wed 07/24/2024 17:06:55.00 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:55.00 Month: September  
+Wed 07/24/2024 17:06:55.00 Day: Thursday  
+Wed 07/24/2024 17:06:55.00 Direction: Short  
+Wed 07/24/2024 17:06:55.00 File copied from Templates\Short\September\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:55.00 File copied from Templates\Short\September\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:55.00 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:55.96 Counter: 89  
+Wed 07/24/2024 17:06:55.96 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:55.96 Month: September  
+Wed 07/24/2024 17:06:55.96 Day: Friday  
+Wed 07/24/2024 17:06:55.96 Direction: Long  
+Wed 07/24/2024 17:06:55.96 File copied from Templates\Long\September\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:55.96 File copied from Templates\Long\September\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:55.96 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:57.04 Counter: 90  
+Wed 07/24/2024 17:06:57.04 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:57.04 Month: September  
+Wed 07/24/2024 17:06:57.04 Day: Friday  
+Wed 07/24/2024 17:06:57.04 Direction: Short  
+Wed 07/24/2024 17:06:57.04 File copied from Templates\Short\September\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:57.04 File copied from Templates\Short\September\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:57.04 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:58.18 Counter: 91  
+Wed 07/24/2024 17:06:58.18 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:58.18 Month: October  
+Wed 07/24/2024 17:06:58.18 Day: Monday  
+Wed 07/24/2024 17:06:58.18 Direction: Long  
+Wed 07/24/2024 17:06:58.18 File copied from Templates\Long\October\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:58.18 File copied from Templates\Long\October\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:58.18 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:06:59.54 Counter: 92  
+Wed 07/24/2024 17:06:59.54 Ticker: AUDCAD  
+Wed 07/24/2024 17:06:59.54 Month: October  
+Wed 07/24/2024 17:06:59.54 Day: Monday  
+Wed 07/24/2024 17:06:59.54 Direction: Short  
+Wed 07/24/2024 17:06:59.54 File copied from Templates\Short\October\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:06:59.54 File copied from Templates\Short\October\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:06:59.54 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:00.33 Counter: 93  
+Wed 07/24/2024 17:07:00.33 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:00.33 Month: October  
+Wed 07/24/2024 17:07:00.33 Day: Tuesday  
+Wed 07/24/2024 17:07:00.33 Direction: Long  
+Wed 07/24/2024 17:07:00.33 File copied from Templates\Long\October\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:00.33 File copied from Templates\Long\October\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:00.33 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:01.05 Counter: 94  
+Wed 07/24/2024 17:07:01.05 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:01.05 Month: October  
+Wed 07/24/2024 17:07:01.05 Day: Tuesday  
+Wed 07/24/2024 17:07:01.05 Direction: Short  
+Wed 07/24/2024 17:07:01.05 File copied from Templates\Short\October\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:01.05 File copied from Templates\Short\October\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:01.05 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:01.85 Counter: 95  
+Wed 07/24/2024 17:07:01.85 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:01.85 Month: October  
+Wed 07/24/2024 17:07:01.85 Day: Wednesday  
+Wed 07/24/2024 17:07:01.85 Direction: Long  
+Wed 07/24/2024 17:07:01.85 File copied from Templates\Long\October\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:01.85 File copied from Templates\Long\October\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:01.85 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:02.62 Counter: 96  
+Wed 07/24/2024 17:07:02.62 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:02.62 Month: October  
+Wed 07/24/2024 17:07:02.62 Day: Wednesday  
+Wed 07/24/2024 17:07:02.62 Direction: Short  
+Wed 07/24/2024 17:07:02.62 File copied from Templates\Short\October\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:02.62 File copied from Templates\Short\October\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:02.62 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:03.39 Counter: 97  
+Wed 07/24/2024 17:07:03.39 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:03.39 Month: October  
+Wed 07/24/2024 17:07:03.39 Day: Thursday  
+Wed 07/24/2024 17:07:03.39 Direction: Long  
+Wed 07/24/2024 17:07:03.39 File copied from Templates\Long\October\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:03.39 File copied from Templates\Long\October\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:03.39 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:04.19 Counter: 98  
+Wed 07/24/2024 17:07:04.19 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:04.19 Month: October  
+Wed 07/24/2024 17:07:04.19 Day: Thursday  
+Wed 07/24/2024 17:07:04.19 Direction: Short  
+Wed 07/24/2024 17:07:04.19 File copied from Templates\Short\October\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:04.19 File copied from Templates\Short\October\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:04.19 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:04.96 Counter: 99  
+Wed 07/24/2024 17:07:04.96 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:04.96 Month: October  
+Wed 07/24/2024 17:07:04.96 Day: Friday  
+Wed 07/24/2024 17:07:04.96 Direction: Long  
+Wed 07/24/2024 17:07:04.96 File copied from Templates\Long\October\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:04.96 File copied from Templates\Long\October\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:04.96 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:05.63 Counter: 100  
+Wed 07/24/2024 17:07:05.63 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:05.63 Month: October  
+Wed 07/24/2024 17:07:05.63 Day: Friday  
+Wed 07/24/2024 17:07:05.63 Direction: Short  
+Wed 07/24/2024 17:07:05.63 File copied from Templates\Short\October\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:05.63 File copied from Templates\Short\October\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:05.63 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:06.41 Counter: 101  
+Wed 07/24/2024 17:07:06.41 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:06.41 Month: November  
+Wed 07/24/2024 17:07:06.41 Day: Monday  
+Wed 07/24/2024 17:07:06.41 Direction: Long  
+Wed 07/24/2024 17:07:06.41 File copied from Templates\Long\November\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:06.41 File copied from Templates\Long\November\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:06.41 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:07.25 Counter: 102  
+Wed 07/24/2024 17:07:07.25 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:07.25 Month: November  
+Wed 07/24/2024 17:07:07.25 Day: Monday  
+Wed 07/24/2024 17:07:07.25 Direction: Short  
+Wed 07/24/2024 17:07:07.25 File copied from Templates\Short\November\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:07.25 File copied from Templates\Short\November\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:07.25 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:07.99 Counter: 103  
+Wed 07/24/2024 17:07:07.99 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:07.99 Month: November  
+Wed 07/24/2024 17:07:07.99 Day: Tuesday  
+Wed 07/24/2024 17:07:07.99 Direction: Long  
+Wed 07/24/2024 17:07:07.99 File copied from Templates\Long\November\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:07.99 File copied from Templates\Long\November\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:07.99 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:08.87 Counter: 104  
+Wed 07/24/2024 17:07:08.87 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:08.87 Month: November  
+Wed 07/24/2024 17:07:08.87 Day: Tuesday  
+Wed 07/24/2024 17:07:08.87 Direction: Short  
+Wed 07/24/2024 17:07:08.87 File copied from Templates\Short\November\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:08.87 File copied from Templates\Short\November\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:08.87 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:09.57 Counter: 105  
+Wed 07/24/2024 17:07:09.57 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:09.57 Month: November  
+Wed 07/24/2024 17:07:09.57 Day: Wednesday  
+Wed 07/24/2024 17:07:09.57 Direction: Long  
+Wed 07/24/2024 17:07:09.57 File copied from Templates\Long\November\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:09.57 File copied from Templates\Long\November\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:09.57 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:10.37 Counter: 106  
+Wed 07/24/2024 17:07:10.37 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:10.37 Month: November  
+Wed 07/24/2024 17:07:10.37 Day: Wednesday  
+Wed 07/24/2024 17:07:10.37 Direction: Short  
+Wed 07/24/2024 17:07:10.37 File copied from Templates\Short\November\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:10.37 File copied from Templates\Short\November\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:10.37 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:11.00 Counter: 107  
+Wed 07/24/2024 17:07:11.00 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:11.00 Month: November  
+Wed 07/24/2024 17:07:11.00 Day: Thursday  
+Wed 07/24/2024 17:07:11.00 Direction: Long  
+Wed 07/24/2024 17:07:11.00 File copied from Templates\Long\November\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:11.00 File copied from Templates\Long\November\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:11.00 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:11.80 Counter: 108  
+Wed 07/24/2024 17:07:11.80 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:11.80 Month: November  
+Wed 07/24/2024 17:07:11.80 Day: Thursday  
+Wed 07/24/2024 17:07:11.80 Direction: Short  
+Wed 07/24/2024 17:07:11.80 File copied from Templates\Short\November\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:11.80 File copied from Templates\Short\November\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:11.80 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:13.09 Counter: 109  
+Wed 07/24/2024 17:07:13.09 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:13.09 Month: November  
+Wed 07/24/2024 17:07:13.09 Day: Friday  
+Wed 07/24/2024 17:07:13.09 Direction: Long  
+Wed 07/24/2024 17:07:13.09 File copied from Templates\Long\November\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:13.09 File copied from Templates\Long\November\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:13.09 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:14.32 Counter: 110  
+Wed 07/24/2024 17:07:14.32 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:14.32 Month: November  
+Wed 07/24/2024 17:07:14.32 Day: Friday  
+Wed 07/24/2024 17:07:14.32 Direction: Short  
+Wed 07/24/2024 17:07:14.32 File copied from Templates\Short\November\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:14.32 File copied from Templates\Short\November\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:14.32 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:15.30 Counter: 111  
+Wed 07/24/2024 17:07:15.30 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:15.30 Month: December  
+Wed 07/24/2024 17:07:15.30 Day: Monday  
+Wed 07/24/2024 17:07:15.30 Direction: Long  
+Wed 07/24/2024 17:07:15.30 File copied from Templates\Long\December\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:15.30 File copied from Templates\Long\December\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:15.30 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:16.36 Counter: 112  
+Wed 07/24/2024 17:07:16.36 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:16.36 Month: December  
+Wed 07/24/2024 17:07:16.36 Day: Monday  
+Wed 07/24/2024 17:07:16.36 Direction: Short  
+Wed 07/24/2024 17:07:16.36 File copied from Templates\Short\December\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:16.36 File copied from Templates\Short\December\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:16.36 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:17.32 Counter: 113  
+Wed 07/24/2024 17:07:17.32 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:17.32 Month: December  
+Wed 07/24/2024 17:07:17.32 Day: Tuesday  
+Wed 07/24/2024 17:07:17.32 Direction: Long  
+Wed 07/24/2024 17:07:17.32 File copied from Templates\Long\December\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:17.32 File copied from Templates\Long\December\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:17.32 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:19.36 Counter: 114  
+Wed 07/24/2024 17:07:19.36 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:19.36 Month: December  
+Wed 07/24/2024 17:07:19.36 Day: Tuesday  
+Wed 07/24/2024 17:07:19.36 Direction: Short  
+Wed 07/24/2024 17:07:19.36 File copied from Templates\Short\December\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:19.36 File copied from Templates\Short\December\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:19.36 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:20.09 Counter: 115  
+Wed 07/24/2024 17:07:20.09 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:20.09 Month: December  
+Wed 07/24/2024 17:07:20.09 Day: Wednesday  
+Wed 07/24/2024 17:07:20.09 Direction: Long  
+Wed 07/24/2024 17:07:20.09 File copied from Templates\Long\December\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:20.09 File copied from Templates\Long\December\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:20.09 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:20.84 Counter: 116  
+Wed 07/24/2024 17:07:20.84 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:20.84 Month: December  
+Wed 07/24/2024 17:07:20.84 Day: Wednesday  
+Wed 07/24/2024 17:07:20.84 Direction: Short  
+Wed 07/24/2024 17:07:20.84 File copied from Templates\Short\December\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:20.84 File copied from Templates\Short\December\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:20.84 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:21.67 Counter: 117  
+Wed 07/24/2024 17:07:21.67 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:21.67 Month: December  
+Wed 07/24/2024 17:07:21.67 Day: Thursday  
+Wed 07/24/2024 17:07:21.67 Direction: Long  
+Wed 07/24/2024 17:07:21.67 File copied from Templates\Long\December\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:21.67 File copied from Templates\Long\December\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:21.67 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:22.57 Counter: 118  
+Wed 07/24/2024 17:07:22.57 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:22.57 Month: December  
+Wed 07/24/2024 17:07:22.57 Day: Thursday  
+Wed 07/24/2024 17:07:22.57 Direction: Short  
+Wed 07/24/2024 17:07:22.57 File copied from Templates\Short\December\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:22.57 File copied from Templates\Short\December\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:22.57 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:24.02 Counter: 119  
+Wed 07/24/2024 17:07:24.02 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:24.02 Month: December  
+Wed 07/24/2024 17:07:24.02 Day: Friday  
+Wed 07/24/2024 17:07:24.02 Direction: Long  
+Wed 07/24/2024 17:07:24.02 File copied from Templates\Long\December\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:24.02 File copied from Templates\Long\December\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:24.02 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:24.96 Counter: 120  
+Wed 07/24/2024 17:07:24.96 Ticker: AUDCAD  
+Wed 07/24/2024 17:07:24.96 Month: December  
+Wed 07/24/2024 17:07:24.96 Day: Friday  
+Wed 07/24/2024 17:07:24.96 Direction: Short  
+Wed 07/24/2024 17:07:24.96 File copied from Templates\Short\December\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:24.96 File copied from Templates\Short\December\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:24.96 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:07:26.90 Counter: 121  
+Wed 07/24/2024 17:07:26.90 Ticker: AUDCHF  
+Wed 07/24/2024 17:07:26.90 Month: January  
+Wed 07/24/2024 17:07:26.90 Day: Monday  
+Wed 07/24/2024 17:07:26.90 Direction: Long  
+Wed 07/24/2024 17:07:26.90 File copied from Templates\Long\January\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:07:26.90 File copied from Templates\Long\January\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:07:26.90 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:52.21 Counter: 122  
+Wed 07/24/2024 17:09:52.21 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:52.21 Month: January  
+Wed 07/24/2024 17:09:52.21 Day: Monday  
+Wed 07/24/2024 17:09:52.21 Direction: Short  
+Wed 07/24/2024 17:09:52.21 File copied from Templates\Short\January\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:52.21 File copied from Templates\Short\January\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:52.21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:54.60 Counter: 123  
+Wed 07/24/2024 17:09:54.60 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:54.60 Month: January  
+Wed 07/24/2024 17:09:54.60 Day: Tuesday  
+Wed 07/24/2024 17:09:54.60 Direction: Long  
+Wed 07/24/2024 17:09:54.60 File copied from Templates\Long\January\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:54.60 File copied from Templates\Long\January\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:54.60 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:55.62 Counter: 124  
+Wed 07/24/2024 17:09:55.62 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:55.62 Month: January  
+Wed 07/24/2024 17:09:55.62 Day: Tuesday  
+Wed 07/24/2024 17:09:55.62 Direction: Short  
+Wed 07/24/2024 17:09:55.62 File copied from Templates\Short\January\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:55.62 File copied from Templates\Short\January\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:55.62 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:56.28 Counter: 125  
+Wed 07/24/2024 17:09:56.28 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:56.28 Month: January  
+Wed 07/24/2024 17:09:56.28 Day: Wednesday  
+Wed 07/24/2024 17:09:56.28 Direction: Long  
+Wed 07/24/2024 17:09:56.28 File copied from Templates\Long\January\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:56.28 File copied from Templates\Long\January\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:56.28 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:57.04 Counter: 126  
+Wed 07/24/2024 17:09:57.04 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:57.04 Month: January  
+Wed 07/24/2024 17:09:57.04 Day: Wednesday  
+Wed 07/24/2024 17:09:57.04 Direction: Short  
+Wed 07/24/2024 17:09:57.04 File copied from Templates\Short\January\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:57.04 File copied from Templates\Short\January\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:57.04 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:58.34 Counter: 127  
+Wed 07/24/2024 17:09:58.34 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:58.34 Month: January  
+Wed 07/24/2024 17:09:58.34 Day: Thursday  
+Wed 07/24/2024 17:09:58.34 Direction: Long  
+Wed 07/24/2024 17:09:58.34 File copied from Templates\Long\January\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:58.34 File copied from Templates\Long\January\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:58.34 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:59.09 Counter: 128  
+Wed 07/24/2024 17:09:59.09 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:59.09 Month: January  
+Wed 07/24/2024 17:09:59.09 Day: Thursday  
+Wed 07/24/2024 17:09:59.09 Direction: Short  
+Wed 07/24/2024 17:09:59.09 File copied from Templates\Short\January\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:59.09 File copied from Templates\Short\January\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:59.09 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:09:59.80 Counter: 129  
+Wed 07/24/2024 17:09:59.80 Ticker: AUDCHF  
+Wed 07/24/2024 17:09:59.80 Month: January  
+Wed 07/24/2024 17:09:59.80 Day: Friday  
+Wed 07/24/2024 17:09:59.80 Direction: Long  
+Wed 07/24/2024 17:09:59.80 File copied from Templates\Long\January\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:09:59.80 File copied from Templates\Long\January\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:09:59.80 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:00.47 Counter: 130  
+Wed 07/24/2024 17:10:00.47 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:00.47 Month: January  
+Wed 07/24/2024 17:10:00.47 Day: Friday  
+Wed 07/24/2024 17:10:00.47 Direction: Short  
+Wed 07/24/2024 17:10:00.47 File copied from Templates\Short\January\Friday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:00.47 File copied from Templates\Short\January\Friday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:00.47 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:01.20 Counter: 131  
+Wed 07/24/2024 17:10:01.20 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:01.20 Month: February  
+Wed 07/24/2024 17:10:01.20 Day: Monday  
+Wed 07/24/2024 17:10:01.20 Direction: Long  
+Wed 07/24/2024 17:10:01.20 File copied from Templates\Long\February\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:01.20 File copied from Templates\Long\February\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:01.20 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:01.92 Counter: 132  
+Wed 07/24/2024 17:10:01.92 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:01.92 Month: February  
+Wed 07/24/2024 17:10:01.92 Day: Monday  
+Wed 07/24/2024 17:10:01.92 Direction: Short  
+Wed 07/24/2024 17:10:01.92 File copied from Templates\Short\February\Monday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:01.92 File copied from Templates\Short\February\Monday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:01.92 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:02.60 Counter: 133  
+Wed 07/24/2024 17:10:02.60 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:02.60 Month: February  
+Wed 07/24/2024 17:10:02.60 Day: Tuesday  
+Wed 07/24/2024 17:10:02.60 Direction: Long  
+Wed 07/24/2024 17:10:02.60 File copied from Templates\Long\February\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:02.60 File copied from Templates\Long\February\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:02.60 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:03.16 Counter: 134  
+Wed 07/24/2024 17:10:03.16 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:03.16 Month: February  
+Wed 07/24/2024 17:10:03.16 Day: Tuesday  
+Wed 07/24/2024 17:10:03.16 Direction: Short  
+Wed 07/24/2024 17:10:03.16 File copied from Templates\Short\February\Tuesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:03.16 File copied from Templates\Short\February\Tuesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:03.16 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:03.78 Counter: 135  
+Wed 07/24/2024 17:10:03.78 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:03.78 Month: February  
+Wed 07/24/2024 17:10:03.78 Day: Wednesday  
+Wed 07/24/2024 17:10:03.78 Direction: Long  
+Wed 07/24/2024 17:10:03.78 File copied from Templates\Long\February\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:03.78 File copied from Templates\Long\February\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:03.78 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:04.44 Counter: 136  
+Wed 07/24/2024 17:10:04.44 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:04.44 Month: February  
+Wed 07/24/2024 17:10:04.44 Day: Wednesday  
+Wed 07/24/2024 17:10:04.44 Direction: Short  
+Wed 07/24/2024 17:10:04.44 File copied from Templates\Short\February\Wednesday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:04.44 File copied from Templates\Short\February\Wednesday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:04.44 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:04.92 Counter: 137  
+Wed 07/24/2024 17:10:04.92 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:04.92 Month: February  
+Wed 07/24/2024 17:10:04.92 Day: Thursday  
+Wed 07/24/2024 17:10:04.92 Direction: Long  
+Wed 07/24/2024 17:10:04.92 File copied from Templates\Long\February\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:04.92 File copied from Templates\Long\February\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:04.92 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+        1 file(s) copied.
+Wed 07/24/2024 17:10:05.44 Counter: 138  
+Wed 07/24/2024 17:10:05.44 Ticker: AUDCHF  
+Wed 07/24/2024 17:10:05.44 Month: February  
+Wed 07/24/2024 17:10:05.44 Day: Thursday  
+Wed 07/24/2024 17:10:05.44 Direction: Short  
+Wed 07/24/2024 17:10:05.44 File copied from Templates\Short\February\Thursday.sqx to Working Folder\template.sqx 
+Wed 07/24/2024 17:10:05.44 File copied from Templates\Short\February\Thursday_refined.sqx to Working Folder\template_refined.sqx 
+        1 file(s) copied.
+Wed 07/24/2024 17:10:05.44 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 

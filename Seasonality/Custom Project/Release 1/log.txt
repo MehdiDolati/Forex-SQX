@@ -1,0 +1,596 @@
+        1 file(s) copied.
+Sun-07-21 2024:20 Counter: 2  
+Sun-07-21 2024:20 Ticker: AUDCAD  
+Sun-07-21 2024:20 Month: January  
+Sun-07-21 2024:20 Day: Tuesday  
+Sun-07-21 2024:20 File copied from Templates\Long\January\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:20 Counter: 2  
+Sun-07-21 2024:20 Ticker: AUDCAD  
+Sun-07-21 2024:20 Month: January  
+Sun-07-21 2024:20 Day: Tuesday  
+Sun-07-21 2024:20 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 3  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 3  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 4  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 4  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 5  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 5  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 6  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 6  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 7  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 7  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 8  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 8  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 9  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 9  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 10  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 10  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 11  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\March\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 11  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 12  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\March\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 12  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 13  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\March\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 13  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 14  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\March\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 14  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 15  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\March\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 15  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: March  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 16  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\April\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 16  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 17  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\April\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 17  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 18  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\April\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 18  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 19  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\April\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 19  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 20  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\April\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 20  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: April  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 21  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: May  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\May\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 22  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: May  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\May\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 23  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: May  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\May\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 24  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: May  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\May\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 25  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: May  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\May\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 26  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: June  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\June\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 27  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: June  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\June\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 28  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: June  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\June\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 29  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: June  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\June\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 30  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: June  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\June\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 31  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: July  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\July\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 32  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: July  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\July\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 33  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: July  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\July\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 34  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: July  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\July\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 35  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: July  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\July\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 36  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: August  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\August\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 37  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: August  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\August\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 38  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: August  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\August\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 39  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: August  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\August\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 40  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: August  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\August\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 41  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: September  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\September\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 42  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: September  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\September\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 43  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: September  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\September\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 44  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: September  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\September\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 45  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: September  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\September\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 46  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: October  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\October\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 47  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: October  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\October\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 48  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: October  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\October\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 49  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: October  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\October\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 50  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: October  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\October\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 51  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: November  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\November\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 52  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: November  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\November\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 53  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: November  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\November\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 54  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: November  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\November\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 55  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: November  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\November\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 56  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: December  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\December\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 57  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: December  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\December\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 58  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: December  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\December\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 59  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: December  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\December\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 60  
+Sun-07-21 2024:21 Ticker: AUDCAD  
+Sun-07-21 2024:21 Month: December  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\December\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCAD.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 61  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 62  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Tuesday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Tuesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 63  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Wednesday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Wednesday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 64  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Thursday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Thursday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 65  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: January  
+Sun-07-21 2024:21 Day: Friday  
+Sun-07-21 2024:21 File copied from Templates\Long\January\\Friday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
+        1 file(s) copied.
+Sun-07-21 2024:21 Counter: 66  
+Sun-07-21 2024:21 Ticker: AUDCHF  
+Sun-07-21 2024:21 Month: February  
+Sun-07-21 2024:21 Day: Monday  
+Sun-07-21 2024:21 File copied from Templates\Long\February\\Monday.sqx to Working Folder\template_long.sqx 
+        1 file(s) copied.
+Sun-07-21 2024:21 File copied from Configs\AUDCHF.cfx to Working Folder\ticker_config.cfx 
